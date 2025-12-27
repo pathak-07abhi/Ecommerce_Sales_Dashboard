@@ -91,7 +91,7 @@ The dashboard provides a **Year-to-Date (YTD)** view of sales, profit, margins, 
 
 > 
 
-![Dashboard Preview](https://github.com/pathak-07abhi/Ecommerce_Sales_Dashboard/blob/main/Ecommerce_Sales_Dashboard.png?raw=true)
+![Dashboard Preview](https://github.com/pathak-07abhi/Ecommerce_Sales_Dashboard/blob/b10cc232938848f3c9bbcafd3f60d1b69bc77bf8/Ecommerce_Sales_Dashboard.png)
 
 ---
 
